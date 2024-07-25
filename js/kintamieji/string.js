@@ -92,3 +92,64 @@ console.log(5, textSize3);
 
 textSize3 = textSize3 + ' simboliu.';
 console.log(6, textSize3);
+
+console.clear();
+
+const pomidoras = 'Pomidoras';
+console.log(pomidoras);
+
+const symbol1 = pomidoras[0];
+console.log(symbol1);
+
+const symbol2 = pomidoras[1];
+console.log(symbol2);
+
+const symbol3 = pomidoras[2];
+console.log(symbol3);
+
+const symbol4 = pomidoras[3];
+console.log(symbol4);
+
+console.log(pomidoras[99]);
+console.log(pomidoras[-1]);
+console.log(pomidoras[3.14]);
+console.log(pomidoras[-3.14]);
+console.log(pomidoras[Infinity]);
+console.log(pomidoras[NaN]);
+
+console.log(pomidoras[0]);
+console.log(pomidoras[1]);
+console.log(pomidoras[2]);
+console.log(pomidoras[3]);
+console.log(pomidoras[4]);
+console.log(pomidoras[5]);
+console.log(pomidoras[6]);
+console.log(pomidoras[7]);
+console.log(pomidoras[8]);
+console.log(pomidoras[9]);
+
+console.clear();
+
+const agurkas = 'Zalias agurkas!';
+
+const agurkasFirst = agurkas[0];
+console.log(agurkasFirst);
+
+const agurkasLast = agurkas[agurkas.length - 1];
+console.log(agurkasLast);
+
+const text = 'abcdef';
+const lastSymbol = text[--text.length];
+const lastSymbol2 = text[text.length - 1];
+
+console.log(lastSymbol);
+console.log(lastSymbol2);
+
+const personName = 'Vardenis';
+const personSurname = 'Pavardenis';
+
+console.log('------------------');
+// V.P.
+const abbr = personName[0] + '.' + personSurname[0] + '.';
+
+console.log(abbr);
