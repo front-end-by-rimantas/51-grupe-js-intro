@@ -7,7 +7,7 @@ true -> 1
 false -> 0
 
 Operatoriai:
-&& - AND (ir) turi pirmenybe prie ||
+&& - AND (ir) turi pirmenybe pries ||
 || - OR (arba)
 */
 
