@@ -100,7 +100,7 @@ Kiekviena preke yra aprasoma pavadinimu, kaina uz vieneta ir norimu pirkti kieki
 Reikia isspausdinti:
 
 A) SABLONAS:
-Prekiu krepselyje yra [COUNT] prekiu.
+Prekiu krepselyje yra COUNT prekiu.
 
 B) SABLONAS:
 Prekiu krepselis
