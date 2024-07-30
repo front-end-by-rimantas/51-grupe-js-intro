@@ -188,3 +188,6 @@ const houseKeys = Object.keys(house);
 console.log(houseKeys);
 
 console.log(Object.keys({}));
+
+// dinaminis reiksmiu priskyrimas
+

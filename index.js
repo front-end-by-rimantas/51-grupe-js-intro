@@ -20,9 +20,9 @@ kintamieji (duomenu tipai):
     - string (tekstas)
     + boolean (true/false)
     + array (sąrašas)
-    - object (kompleksiškas duomuo/struktūra)
-    - null
-    - undefined
+    + object (kompleksiškas duomuo/struktūra)
+    + null
+    + undefined
 salygos/palyginimo (if):
     - boolean logika
     - if
