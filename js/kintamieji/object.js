@@ -189,5 +189,32 @@ console.log(houseKeys);
 
 console.log(Object.keys({}));
 
+console.clear();
+
 // dinaminis reiksmiu priskyrimas
+
+const zoo = {
+    liutas: 2,
+};
+console.log(zoo.liutas);
+
+zoo.liutas += 3;
+console.log(zoo.liutas);
+
+zoo.dramblys = 1;
+console.log(zoo);
+
+zoo.dramblys += 2;
+console.log(zoo);
+
+zoo.lape = 4;
+console.log(zoo);
+
+const marks = [10, 2, 8, 4, 6];
+console.log(marks);
+console.log(marks[0]);
+
+marks[1] = 10;
+console.log(marks);
+console.log(marks[1]);
 
