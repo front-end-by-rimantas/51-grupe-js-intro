@@ -24,7 +24,7 @@ kintamieji (duomenu tipai):
     + null
     + undefined
 salygos/palyginimo (if):
-    - boolean logika
+    + boolean logika
     - if
     - switch
     - ternary
