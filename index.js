@@ -41,6 +41,7 @@ ciklai (for):
         - reduce
         - foreach
         - N+1...
+import-export
 function:
     - "iprastos" deklaruotinos
     - anonimines (priskirtos kintamajam)
@@ -60,5 +61,4 @@ event listeners:
     - mouse click (left/main)
     - mouse click (right/context)
     - scroll
-import-export
 */
