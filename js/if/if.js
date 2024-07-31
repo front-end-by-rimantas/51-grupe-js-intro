@@ -106,7 +106,7 @@ if (color === colors[0]) {
 }
 
 if (undefined) {
-    console.log('POZITYVAS');
+    console.log('POZITYVAS - truthy');
 } else {
-    console.log('NEGATYVAS');
+    console.log('NEGATYVAS - falsy');
 }
