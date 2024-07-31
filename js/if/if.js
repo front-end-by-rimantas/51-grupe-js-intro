@@ -13,6 +13,13 @@ PALYGINIMO OPERATORIAI:
 visi: >, <, >=, <=, ==, !=, ===, !==
 naudotini: >, <, >=, <=, ===, !==
 nenaudotini: ==, !=
+
+ZINOTINI (crazy 👀) DALYKAI:
+- true yra pozityvus, false yra negatyvus
+- visi skaiciai yra pozityvus, isskyrus nuli (0)
+- visi stringai yra pozityvus, isskyrus tusti ('')
+- visi array ([]) yra pozityvus
+- visi object ({}) yra pozityvus
 */
 
 console.log('START');
@@ -76,4 +83,30 @@ if (0 == '') {
     console.log('TAIP');
 } else {
     console.log('NE');
+}
+
+console.clear();
+
+const colors = ['red', 'green', 'blue'];
+const color = 'dddfagshdg';
+
+// code nesting
+if (color === colors[0]) {
+    console.log('Raudona');
+} else {
+    if (color === colors[1]) {
+        console.log('Zalia');
+    } else {
+        if (color === colors[2]) {
+            console.log('Melyna');
+        } else {
+            console.log('Ups...');
+        }
+    }
+}
+
+if (undefined) {
+    console.log('POZITYVAS');
+} else {
+    console.log('NEGATYVAS');
 }
