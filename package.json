@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "for": "node --watch ./js/ciklas/for.js",
         "function": "node --watch ./js/function/function.js",
         "ternary": "node --watch ./js/if/ternary.js",
         "if": "node --watch ./js/if/if.js",
