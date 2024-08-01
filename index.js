@@ -29,7 +29,7 @@ salygos/palyginimo (if):
     - switch
     + ternary
 ciklai (for):
-    - for
+    + for
     - for-of
     - for-in
     - while
@@ -43,7 +43,7 @@ ciklai (for):
         - N+1...
 import-export
 function:
-    - "iprastos" deklaruotinos
+    + "iprastos" deklaruotinos
     - anonimines (priskirtos kintamajam)
     - rodyklines (arrow)
 class (oop):

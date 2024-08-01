@@ -2,8 +2,10 @@
     "name": "51-grupe-js-intro",
     "version": "1.0.0",
     "description": "",
+    "type": "module",
     "main": "index.js",
     "scripts": {
+        "import": "node --watch ./js/function/import.js",
         "for": "node --watch ./js/ciklas/for.js",
         "function": "node --watch ./js/function/function.js",
         "ternary": "node --watch ./js/if/ternary.js",
