@@ -1,10 +1,16 @@
 function rangeSum(start, end) {
+    // 1. atejusios informacijos (params) validavimas
+
+    // 2. logika
     let sum = 0;
 
     for (let i = start; i <= end; i++) {
         sum += i;
     }
 
+    // 3. logikoje gauto rezultato validavimas
+
+    // 4. rezultato grazinimas
     return sum;
 }
 
