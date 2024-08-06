@@ -17,7 +17,7 @@ console.log(4, 5, 6, 7, 8, 9);
 - kintamieji (duomenu tipai):
     + iniciavimo būdai
     + number
-    - string (tekstas)
+    + string (tekstas)
     + boolean (true/false)
     + array (sąrašas)
     + object (kompleksiškas duomuo/struktūra)
@@ -30,10 +30,10 @@ console.log(4, 5, 6, 7, 8, 9);
     + ternary
 - ciklai (for):
     + for
-    - for-of
+    + for-of
     - for-in
-    - while
-    - do-while
+    + while
+    - do-while (patys, jei norit)
     - cikliski metodai:
         - map
         - filter
