@@ -42,10 +42,10 @@ console.log(4, 5, 6, 7, 8, 9);
         - foreach
         - N+1...
 + import-export
-- function:
++ function:
     + "iprastos" deklaruotinos
-    - anonimines (priskirtos kintamajam)
-    - rodyklines (arrow)
+    + anonimines (priskirtos kintamajam)
+    + rodyklines (arrow)
 - methods:
     - number
     - string
