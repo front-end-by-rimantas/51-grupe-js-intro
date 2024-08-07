@@ -31,7 +31,7 @@ console.log(4, 5, 6, 7, 8, 9);
 - ciklai (for):
     + for
     + for-of
-    - for-in
+    + for-in
     + while
     - do-while (patys, jei norit)
     - cikliski metodai:
