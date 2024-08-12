@@ -35,8 +35,8 @@ console.log(4, 5, 6, 7, 8, 9);
     + while
     - do-while (patys, jei norit)
     - cikliski metodai:
-        - map
-        - filter
+        + map
+        + filter
         - sort
         - reduce
         - foreach
@@ -47,8 +47,8 @@ console.log(4, 5, 6, 7, 8, 9);
     + anonimines (priskirtos kintamajam)
     + rodyklines (arrow)
 - methods:
-    - number
-    - string
+    + number
+    + string
     - array
     - object
 - class (oop):
@@ -62,3 +62,11 @@ console.log(4, 5, 6, 7, 8, 9);
     - mouse click (right/context)
     - scroll
 */
+
+
+console.log(Array.prototype.flat);
+console.log(Array.prototype.every);
+console.log(Array.prototype.some);
+console.log(Array.prototype.forEach);
+console.log(Array.prototype.sort);
+console.log(Array.prototype.reduce);
