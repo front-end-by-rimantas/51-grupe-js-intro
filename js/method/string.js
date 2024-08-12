@@ -333,4 +333,3 @@ console.log(`"${'        trimEnd       '.trimEnd()}"`);
 console.log(`"${'        a    b       '.trim()}"`);
 console.log(`"${'        a    b       '.trimStart()}"`);
 console.log(`"${'        a    b       '.trimEnd()}"`);
-
