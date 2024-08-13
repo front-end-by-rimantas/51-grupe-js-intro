@@ -63,10 +63,5 @@ console.log(4, 5, 6, 7, 8, 9);
     - scroll
 */
 
-
-console.log(Array.prototype.flat);
-console.log(Array.prototype.every);
-console.log(Array.prototype.some);
-console.log(Array.prototype.forEach);
 console.log(Array.prototype.sort);
 console.log(Array.prototype.reduce);
