@@ -38,7 +38,7 @@ console.log(4, 5, 6, 7, 8, 9);
         + map
         + filter
         + sort
-        - reduce
+        + reduce
         + foreach
         + N+1...
 + import-export
@@ -50,7 +50,8 @@ console.log(4, 5, 6, 7, 8, 9);
     + number
     + string
     + array
-    - object
+    + object
+    + Math
 - class (oop):
     - class
     - inheritence
