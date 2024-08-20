@@ -218,3 +218,30 @@ marks[1] = 10;
 console.log(marks);
 console.log(marks[1]);
 
+console.clear();
+
+const person = {
+    name: 'Jonas',
+    age: undefined,
+    isMarried: undefined,
+};
+
+person.age = 99;
+person.isMarried = true;
+console.log(person);
+
+console.log(person.address);
+
+person.address = 'Stelmuzes Azuolo g 1, Zarasai';
+console.log(person);
+console.log(person.address);
+
+console.clear();
+
+const car = {};
+
+car.brand = 'Audi';
+car.model = '80';
+car.color = '#ff0000';
+
+console.log(car);
